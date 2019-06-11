@@ -1,4 +1,4 @@
-# Drum_Kit
+# Drum Kit
 This is a drum kit where different keys represent different sounds of the drums.
 
 # How to Use
